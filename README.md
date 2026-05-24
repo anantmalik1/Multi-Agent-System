@@ -3,7 +3,7 @@
 # 🤖 M.A.I.S.
 ### Multi-Agent Intelligence System
 
-<img src="assets/banner.png" width="100%" />
+<img src="Gemini_Generated_Image_g43t86g43t86g43t.png"/>
 
 <br/>
 
