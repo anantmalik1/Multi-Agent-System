@@ -34,6 +34,10 @@
 
 <img src="assets/dashboard.png" width="100%" />
 
+<br/><br/>
+
+<img src="assets/live-ui.png" width="100%" />
+
 </div>
 
 ---
@@ -110,6 +114,7 @@ multi-agent-system/
 ├── assets/
 │   ├── banner.png
 │   ├── dashboard.png
+│   ├── live-ui.png
 │   ├── bg.mp4
 │   └── styles.css
 │
@@ -175,6 +180,10 @@ streamlit run app.py
 <div align="center">
 
 <img src="assets/dashboard.png" width="100%" />
+
+<br/>
+
+<img src="assets/live-ui.png" width="100%" />
 
 </div>
 
