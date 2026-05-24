@@ -3,7 +3,7 @@
 # 🤖 M.A.I.S.
 ### Multi-Agent Intelligence System
 
-<img src="screenshot/photo1/>
+<img src="screenshot/photo.png"/>
 
 <br/>
 
