@@ -10,7 +10,6 @@
 # 🤖 M.A.I.S.
 ### Multi-Agent Intelligence System
 
-<img src="screenshot/photo.png"/>
 
 <br/>
 
@@ -190,7 +189,7 @@ streamlit run app.py
 
 <br/>
 
-<img src="assets/live-ui.png" width="100%" />
+<img src="assets/research report output.png" width="100%" />
 
 </div>
 
