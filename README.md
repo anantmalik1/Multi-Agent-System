@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="AI City Assistant — More than a chatbot, an intelligent AI Agent that thinks, plans, and assists your city in real time." width="100%" />
+
+</div>
+
+
+<div align="center">
+
 # 🤖 M.A.I.S.
 ### Multi-Agent Intelligence System
 
